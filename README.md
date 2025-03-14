@@ -1,11 +1,11 @@
 # cicd
 
-This is a project to learn about GitHub actions during my education.
+This is a project to learn about GitHub actions during my studies.
 
-## This is a really cool formation
+## Program
 
-- item 1
+- simplecalculator
 
-## readme is what
+## Target
 
-**coool**
+Make CI/CD pipelines using GitHub actions
