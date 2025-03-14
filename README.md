@@ -4,6 +4,10 @@
 
 This is a project to learn about GitHub actions during my studies.
 
+## Executable:
+
+[simplecalculator](https://github.com/eckbalu/cicd/releases/tag/latest)
+
 ## Program
 
 - simplecalculator
@@ -12,6 +16,3 @@ This is a project to learn about GitHub actions during my studies.
 
 Make CI/CD pipelines using GitHub actions
 
-## Executable:
-
-[simplecalculator](https://github.com/eckbalu/cicd/releases/tag/latest)
