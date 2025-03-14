@@ -8,7 +8,7 @@
 int main()
 {
     printf("Simple calculator\n");
-    
+    asdfasdf
     bool ok = true;
     int result = 0;
 
